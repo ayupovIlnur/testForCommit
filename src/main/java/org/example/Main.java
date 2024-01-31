@@ -5,5 +5,7 @@ public class Main {
         System.out.println("Hello world!");
         //from master
         //from master
+        //from fut
+        //from fut
     }
 }
